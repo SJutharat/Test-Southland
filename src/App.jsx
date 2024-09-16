@@ -18,7 +18,7 @@ function App() {
 <div className="shadow-md w-full top-0 left-0">
       <div className="md:px-10 py-4 px-10 md:flex justify-between items-center bg-white">
         <div className="flex text-2xl cursor-pointer gap-2">
-          <span className="font-bold">Test</span>
+          <span className="font-bold">Test Southland</span>
         </div>
         </div>
         </div>
